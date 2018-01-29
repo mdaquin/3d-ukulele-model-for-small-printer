@@ -1,7 +1,3 @@
-
-
-
-
 $fn=40;
 
 module stringthing(){
@@ -480,7 +476,6 @@ module tpr(){
 }
 }
 
-/*
  translate([-151.5,0,0]){
   color("lightgrey", 1) bottom();
 }
@@ -493,20 +488,11 @@ translate([48.5,0,0]){
 translate([138.5,0,0]){
  color("red", 1) neck2();
 }
-*/
 
-// tpl();
+// bottom();
+// middle();
 // neck1();
-  neck2();
-// used to measure distance
+// neck2();
 
-/*
-translate([-156,0,25]){
-cube([1,200,1], center=true);
-}
-translate([132,0,25]){
-cube([1,200,1], center=true);
-}
-*/
 
 
