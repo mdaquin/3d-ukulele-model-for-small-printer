@@ -10,3 +10,9 @@ The OpenSCAD model has four main modules that can be shown separatly, experted i
 
 ![final product](https://github.com/mdaquin/3d-ukulele-model-for-small-printer/raw/master/images/20180119_171701.jpg)
 
+I printed with two different plastics, both PLAs from the same brand, but in different colours. It turns out that, especially on the big pieces, they don't shrink exactly in the same way, so the two parts of the body are not completely aligned. It also means that, in order for them to slot properly together, it needs a bit of gritting and sanding. 
+
+![different colours, different sizes](https://github.com/mdaquin/3d-ukulele-model-for-small-printer/raw/master/images/20180123_175422.jpg)
+
+
+
